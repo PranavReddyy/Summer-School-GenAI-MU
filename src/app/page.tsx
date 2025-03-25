@@ -577,7 +577,7 @@ export default function Home() {
           role: "Data Scientist",
           affiliation: "Deloitte Hyderabad",
           website: "https://www.omashish.com/",
-          image: "/omashish.jpg"
+          image: "https://github.com/genai-img/Summer-School-GenAI-MU/blob/f3a79f265cd7ec96e04d415efa2573b0493431ca/public/omashish.jpg"
         },
         {
           name: "Dr. Arnab Bhattacharya",
