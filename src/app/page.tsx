@@ -591,7 +591,7 @@ export default function Home() {
           role: "Assistant Professor",
           affiliation: "IIT Kharagpur",
           website: "http://www.facweb.iitkgp.ac.in/~debdoot/",
-          image: "/Debdoot.jpg"
+          image: "public/Arijit-Roy-5.jpg"
         }
       ].map((speaker, index) => {
         // Create speaker initials for the avatar
