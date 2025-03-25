@@ -591,7 +591,7 @@ export default function Home() {
           role: "Assistant Professor",
           affiliation: "IIT Kharagpur",
           website: "http://www.facweb.iitkgp.ac.in/~debdoot/",
-          image: "public/Arijit-Roy-5.jpg"
+          image: "https://github.com/genai-img/Summer-School-GenAI-MU/blob/main/public/Debdoot.jpg"
         }
       ].map((speaker, index) => {
         // Create speaker initials for the avatar
